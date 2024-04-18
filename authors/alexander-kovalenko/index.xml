@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Kovalenko on Uladzislau Yorsh</title>
+    <link>https://vladyorsh.github.io/authors/alexander-kovalenko/</link>
+    <description>Recent content in Alexander Kovalenko on Uladzislau Yorsh</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vladyorsh.github.io/authors/alexander-kovalenko/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linear Self-Attention Approximation via Trainable Feedforward Kernel</title>
+      <link>https://vladyorsh.github.io/publication/feedforward_kernel/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vladyorsh.github.io/publication/feedforward_kernel/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SimpleTRON: Simple Transformer with O(N) Complexity</title>
+      <link>https://vladyorsh.github.io/publication/simpletron/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vladyorsh.github.io/publication/simpletron/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
